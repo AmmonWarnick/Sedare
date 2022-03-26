@@ -1,13 +1,3 @@
-import React, { useState, useRef, useEffect } from "react";
-import { View, Text, Image, ScrollView, TextInput, StyleSheet, Animated, Dimensions, Vibration, Alert, KeyboardAvoidingView, Platform} from "react-native";
-import { Svg, Path } from "react-native-svg";
-import axios from 'axios';
-import SwitchSZ from "../../customComponents/SwitchSZ.js";
-import Checkbox from "../../customComponents/Checkbox.js";
-import InPageNavigator from "../../customComponents/InPageNavigator.js";
-import {Select} from "../../customComponents/Select.js";
-import {AccordionItem} from "../../customComponents/AccordionItem.js";
-import {Map} from "../../customComponents/Map.js";
 import {image_Shore_1_link} from './assets/imageLinks.js'
 import {image_Rectangle_4_link} from './assets/imageLinks.js'
 import {image_Fresh_Turboscent_1_link} from './assets/imageLinks.js'
