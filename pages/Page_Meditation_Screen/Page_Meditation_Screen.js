@@ -59,7 +59,7 @@ const Page_Meditation_Screen  = ({navigation}) => {
 			<View style = {noneModeStyles._PrimaryButton}    >
 				<View style = {noneModeStyles._PrimaryButton_2}    >
 				</View>
-				<Text style = {noneModeStyles._Let_s_Begin}   >
+				<Text style = {noneModeStyles._Let_s_Begin} >
 					Home
 				</Text>
 			</View>
